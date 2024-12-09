@@ -4,4 +4,4 @@ User-agent: GPTBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://dridiger.github.io/jenni.glueck/sitemap.xml
+Sitemap: https://gluecksjenni.de/sitemap.xml

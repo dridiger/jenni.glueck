@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>zarti_jenni_Glück</title>
-    <link href="https://dridiger.github.io/jenni.glueck/feed.xml" rel="self" />
-    <link href="https://dridiger.github.io/jenni.glueck" />
+    <link href="https://gluecksjenni.de/feed.xml" rel="self" />
+    <link href="https://gluecksjenni.de" />
     <updated>2024-12-09T10:29:03+01:00</updated>
     <author>
         <name>Jennifer Dridiger</name>
     </author>
-    <id>https://dridiger.github.io/jenni.glueck</id>
+    <id>https://gluecksjenni.de</id>
 
     <entry>
         <title>Das bin ich</title>
         <author>
             <name>Jennifer Dridiger</name>
         </author>
-        <link href="https://dridiger.github.io/jenni.glueck/das-bin-ich.html"/>
-        <id>https://dridiger.github.io/jenni.glueck/das-bin-ich.html</id>
+        <link href="https://gluecksjenni.de/das-bin-ich.html"/>
+        <id>https://gluecksjenni.de/das-bin-ich.html</id>
 
         <updated>2024-12-09T10:26:35+01:00</updated>
             <summary>
@@ -48,8 +48,8 @@
         <author>
             <name>Jennifer Dridiger</name>
         </author>
-        <link href="https://dridiger.github.io/jenni.glueck/agb.html"/>
-        <id>https://dridiger.github.io/jenni.glueck/agb.html</id>
+        <link href="https://gluecksjenni.de/agb.html"/>
+        <id>https://gluecksjenni.de/agb.html</id>
 
         <updated>2024-12-08T19:37:15+01:00</updated>
             <summary></summary>
@@ -60,8 +60,8 @@
         <author>
             <name>Jennifer Dridiger</name>
         </author>
-        <link href="https://dridiger.github.io/jenni.glueck/datenschutzerklaerung.html"/>
-        <id>https://dridiger.github.io/jenni.glueck/datenschutzerklaerung.html</id>
+        <link href="https://gluecksjenni.de/datenschutzerklaerung.html"/>
+        <id>https://gluecksjenni.de/datenschutzerklaerung.html</id>
 
         <updated>2024-12-08T19:37:03+01:00</updated>
             <summary></summary>
@@ -72,8 +72,8 @@
         <author>
             <name>Jennifer Dridiger</name>
         </author>
-        <link href="https://dridiger.github.io/jenni.glueck/impressum.html"/>
-        <id>https://dridiger.github.io/jenni.glueck/impressum.html</id>
+        <link href="https://gluecksjenni.de/impressum.html"/>
+        <id>https://gluecksjenni.de/impressum.html</id>
 
         <updated>2024-12-08T19:34:39+01:00</updated>
             <summary>
