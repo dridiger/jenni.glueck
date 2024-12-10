@@ -1,55 +1,49 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "zarti_jenni_Glück",
+    "title": "gluecksjenni",
     "description": "",
     "home_page_url": "https://gluecksjenni.de",
     "feed_url": "https://gluecksjenni.de/feed.json",
     "user_comment": "",
+    "icon": "https://gluecksjenni.de/media/website/zarti_jenni_websitelogo-2.svg",
     "author": {
         "name": "Jennifer Dridiger"
     },
     "items": [
         {
-            "id": "https://gluecksjenni.de/das-bin-ich.html",
-            "url": "https://gluecksjenni.de/das-bin-ich.html",
-            "title": "Das bin ich",
-            "summary": "Moin! Mein Name ist Jennifer. Ich bin in Stuttgart geboren und aufgewachsen. Meinen Traum, in Ostholstein nahe der Ostsee zu leben, habe ich mir mit meiner Familie im Oktober 2022 erfüllt. Ich bin Autistin, habe ADHS und eine generalisierte Angststörung. Außerdem bin ich Ehefrau eines&hellip;",
-            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"file:///Users/jennidri/Desktop/Publii/sites/zarti_jenni/input/media/posts/31/uber_mich.png\" alt=\"\" width=\"300\" height=\"438\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"file:///Users/jennidri/Desktop/Publii/sites/zarti_jenni/input/media/posts/31/responsive/uber_mich-xs.png 640w ,file:///Users/jennidri/Desktop/Publii/sites/zarti_jenni/input/media/posts/31/responsive/uber_mich-sm.png 768w ,file:///Users/jennidri/Desktop/Publii/sites/zarti_jenni/input/media/posts/31/responsive/uber_mich-md.png 1024w ,file:///Users/jennidri/Desktop/Publii/sites/zarti_jenni/input/media/posts/31/responsive/uber_mich-lg.png 1366w ,file:///Users/jennidri/Desktop/Publii/sites/zarti_jenni/input/media/posts/31/responsive/uber_mich-xl.png 1600w ,file:///Users/jennidri/Desktop/Publii/sites/zarti_jenni/input/media/posts/31/responsive/uber_mich-2xl.png 1920w\"></figure>\n<p><span style=\"font-weight: 400;\">Moin! Mein Name ist Jennifer. Ich bin in Stuttgart geboren und aufgewachsen. </span></p>\n<p>Meinen Traum, in Ostholstein nahe der Ostsee zu leben, habe ich mir mit meiner Familie im Oktober 2022 erfüllt. </p>\n<p><span style=\"font-weight: 400;\">Ich bin Autistin, habe ADHS und eine generalisierte Angststörung. </span></p>\n<p><span style=\"font-weight: 400;\">Außerdem bin ich Ehefrau eines unglaublich tollen Mannes und seit 2018 Mama eines wundervollen Kindes. Des weiteren darf ich mich Tochter, Schwägerin, Schwiegertochter, Enkelin, Cousine, Nichte, Freundin, Geliebte, Wegbegleiterin, Träumerin und im Inneren noch immer Kind nennen.</span></p>\n<p><span style=\"font-weight: 400;\">Meine Schulzeit habe ich am liebsten im Chor, der Theater AG und mit meinen Freunden verbracht.</span></p>\n<p><span style=\"font-weight: 400;\">Bis Mitte 2021 arbeitete ich in einer Verbandsorganisation in der Eventplanung, an diversen Projekten und mit vielen Menschen zusammen. Eigenverantwortung, Planung, Sorgfalt, Empathie und auch Leistung und Zielorientiertheit standen auf der Tagesordnung.</span></p>\n<p><span style=\"font-weight: 400;\">Meine Elternzeit habe ich nicht nur genutzt, um mein Kind zu begleiten, live beim Aufwachsen und dessen Welterkundung dabei zu sein, sondern ich bin auch in die Selbstfindungsphase gegangen, habe viel reflektiert, mich mit Familie, dem inneren Kind, Persönlichkeitsentwicklung, Slow Living, Gewaltfreier Kommunikation (GfK), Positiver Psychologie, Nachhaltigkeit, Neurodivergenz, Gesundheit und Ernährung beschäftigt. Das sind Themen, die mich leidenschaftlich interessieren, über die ich gerne schreibe, meine Gedanken teile und in den Austausch gehe. Ich brenne für diese Themen, weil ich der Meinung bin, dass sie ihren Teil dazu beitragen unsere Gesellschaft positiv zu verändern und wir alle (dadurch) mehr in den Austausch miteinander gehen (sollten). Sich mit sich selbst auseinander zu setzen, um auch mit seinen Mitmenschen positiv umgehen und Empathie aufbringen zu können, halte ich für enorm wichtig. Themen wie wahre Freundschaften pflegen, in tiefsinnigen Austausch gehen, Naturverbundenheit, Umweltbewusstsein und Barfuß laufen gehören für mich ebenso zu einem wohlfühligen Lebensstil und sind es wert verbreitet zu werden.</span></p>\n<p>Außerdem steckt in mir eine begeisterte Bücherleserin und Musikliebhaberin. Ab und an komme ich zum Häkeln, versuche mich am Stricken oder erstelle Makramee. So gern ich auch daheim bin, so gern bin ich auch auf Reisen. </p>\n<p>Nach meiner Elternzeit habe ich mich beruflich neu orientiert.</p>\n<p>Ich bin nun glücklich als selbstständige Texterin und Autorin. Außerdem bin ich seit 12/2024 zertifizierte \"Happiness Trainerin\" und bilde mich derzeit per Fernstudium im Bereich \"vegane Ernährungsberatung\" weiter.</p>\n<p><span style=\"font-weight: 400;\">Schön, dass du hier bist.</span></p>\n<p>Solltest du Fragen haben, kannst du sie mir gerne jederzeit stellen. Ich versuche sie so gut ich kann zu beantworten.</p>\n<p>Liebe Grüße vom Ostseestrand</p>\n<p>Jennifer Dridiger</p>",
+            "id": "https://gluecksjenni.de/glueck/",
+            "url": "https://gluecksjenni.de/glueck/",
+            "title": "Glück",
+            "summary": "Ich stehe am Ufer und fühle Glück. Das ist es also. Viel zu selten spürt man dieses Gefühl im hektischen Alltag. Während das Leben vorbei zieht mit seinen Herausforderungen, Ärgernissen und Problemen. An solch einem Tag bin ich los. Eigentlich nur um ein paar Sachen&hellip;",
+            "content_html": "<p>Ich stehe am Ufer und fühle Glück. Das ist es also.<br><br>Viel zu selten spürt man dieses Gefühl im hektischen Alltag. Während das Leben vorbei zieht mit seinen Herausforderungen, Ärgernissen und Problemen.<br><br>An solch einem Tag bin ich los. Eigentlich nur um ein paar Sachen zu erledigen. Auf dem Rückweg jedoch sag ich mir, mach noch einen Abstecher ans Wasser. Du liebst das Wasser. Heute ist so ein schöner Tag. Bewölkt. Starker Nieselregen und \"mild\" (im Gegensatz zu den vorherigen Minusgraden). Ich habe gute Musik im Ohr und fühle mich fit.<br><br>Am Wasser angekommen fühle ich also dieses Glück. Glück und Dankbarkeit hier sein zu können. Einfach mal kurz ans Wasser und einmal durchatmen können.<br><br>Ich weine vor Glück.</p>",
             "author": {
                 "name": "Jennifer Dridiger"
             },
             "tags": [
+                   "Gedankenwelt"
             ],
-            "date_published": "2024-12-09T10:26:35+01:00",
-            "date_modified": "2024-12-09T10:29:03+01:00"
+            "date_published": "2022-12-22T11:23:00+01:00",
+            "date_modified": "2023-01-05T11:23:52+01:00"
         },
         {
-            "id": "https://gluecksjenni.de/agb.html",
-            "url": "https://gluecksjenni.de/agb.html",
-            "title": "AGB",
+            "id": "https://gluecksjenni.de/gluecklich/",
+            "url": "https://gluecksjenni.de/gluecklich/",
+            "title": "Glücklich",
+            "summary": "Und dann bin ich einfach glücklich. Einfach so. Wie konnte das passieren? Heute ging es mir doch noch ganz anders. Und gestern erst...ich mag garnicht dran denken. Und den Tag davor...nein, die Tage davor...achwas, der ganze letzte Monat hatte es in sich. Lag es wirklich&hellip;",
+            "content_html": "<p><span style=\"font-weight: 400;\">Und dann bin ich einfach glücklich. Einfach so. Wie konnte das passieren? Heute ging es mir doch noch ganz anders. Und gestern erst...ich mag garnicht dran denken. Und den Tag davor...nein, die Tage davor...achwas, der ganze letzte Monat hatte es in sich. Lag es wirklich nur an diesem Monat? Oder eher an den ganzen letzten Monaten davor?</span></p>\n<p><span style=\"font-weight: 400;\">Woran liegt es wirklich, dass es uns nicht gut geht? An uns? An unseren Gedanken? An den äußeren Umständen, Umweltfaktoren oder Schicksalschlägen? Oder vielleicht an allem zusammen?</span></p>\n<p><span style=\"font-weight: 400;\">Und wie kann es sein, dass es mir scheinbar urplötzlich wieder gut geht? Hab ich einen Hinweis übersehen? Hab ich einfach drauf los gelebt ohne zu fragen und zu hinterfragen? Ohne zu zweifeln? Die ganzen Angstgedanken ignoriert und mich auf das Hier und Jetzt eingelassen statt im Gedankenkarussell mich gefangen halten zu lassen?</span></p>\n<p>Warum bin ich jetzt einfach glücklich? Und wird es in einer Minute immer noch so sein oder heute Abend...morgen...nächste Woche?</p>",
             "author": {
                 "name": "Jennifer Dridiger"
             },
             "tags": [
+                   "Gedankenwelt",
+                   "AuDHS"
             ],
-            "date_published": "2024-12-08T19:37:15+01:00",
-            "date_modified": "2024-12-08T19:37:15+01:00"
+            "date_published": "2021-12-19T09:37:30+01:00",
+            "date_modified": "2022-02-08T14:02:01+01:00"
         },
         {
-            "id": "https://gluecksjenni.de/datenschutzerklaerung.html",
-            "url": "https://gluecksjenni.de/datenschutzerklaerung.html",
-            "title": "Datenschutzerklärung",
-            "author": {
-                "name": "Jennifer Dridiger"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-12-08T19:37:03+01:00",
-            "date_modified": "2024-12-09T10:26:06+01:00"
-        },
-        {
-            "id": "https://gluecksjenni.de/impressum.html",
-            "url": "https://gluecksjenni.de/impressum.html",
+            "id": "https://gluecksjenni.de/impressum/",
+            "url": "https://gluecksjenni.de/impressum/",
             "title": "Impressum",
             "summary": "Jennifer Dridiger c/o Block Services Stuttgarter Str. 106 70376 Fellbach Deutschland Telefon: 0176 51804507 E-Mail: zartijenni@gmail.com USt. wird nicht ausgewiesen (Kleinunternehmerregelung) Autorin und Verantwortliche i.S.d. § 18 Abs. 2 MStV: Jennifer Dridiger Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr/. Ich bin zur&hellip;",
             "content_html": "<p>Jennifer Dridiger<br>c/o Block Services<br>Stuttgarter Str. 106<br>70376 Fellbach<br>Deutschland<br><br>Telefon: 0176 51804507<br>E-Mail: zartijenni@gmail.com<br><br>USt. wird nicht ausgewiesen (Kleinunternehmerregelung)<br><br>Autorin und Verantwortliche i.S.d. § 18 Abs. 2 MStV:<br>Jennifer Dridiger</p>\n<h2>EU-Streitschlichtung</h2>\n<p>Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: <a href=\"https://ec.europa.eu/consumers/odr/\" target=\"_blank\" rel=\"noopener noreferrer\" role=\"link\" class=\"cursor-init\">https://ec.europa.eu/consumers/odr/</a>.</p>\n<h2>Verbraucher­streit­beilegung/Universal­schlichtungs­stelle</h2>\n<p>Ich bin zur Teilnahme an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle weder verpflichtet noch bereit.</p>\n<h2 class=\"wp-block-heading\">Rechtliche Hinweise und Urheberrecht</h2>\n<p class=\"align-left\">Copyright 2024<br>Jennifer Dridiger<br><br>Alle Rechte vorbehalten. Die durch die Seitenbetreiberin erstellten Inhalte und Werke (Texte, Bilder, Grafiken, Sound, Animationen und Videos) auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Inhalte dürfen nur im Rahmen der Schrankenbestimmungen des Urheberrechtsgesetzes vorbehaltlich weiterer anwendbarer Gesetze ohne vorherige schriftliche Zustimmung genutzt werden. Die <strong>Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung</strong> des jeweiligen Autors bzw. Erstellers. <strong>Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet</strong>. Soweit die Inhalte auf dieser Seite nicht von der Betreiberin erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Solltest du trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitte ich dich um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werde ich derartige Inhalte umgehend entfernen.</p>",
@@ -58,8 +52,8 @@
             },
             "tags": [
             ],
-            "date_published": "2024-12-08T19:34:39+01:00",
-            "date_modified": "2024-12-09T10:25:59+01:00"
+            "date_published": "2021-07-17T23:24:24+02:00",
+            "date_modified": "2024-12-08T19:56:53+01:00"
         }
     ]
 }
