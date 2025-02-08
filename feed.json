@@ -11,30 +11,6 @@
     },
     "items": [
         {
-            "id": "https://gluecksjenni.de/dein-weg-zum-glueck/",
-            "url": "https://gluecksjenni.de/dein-weg-zum-glueck/",
-            "title": "Dein Weg zum Glück",
-            "author": {
-                "name": "Jennifer Dridiger"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-12-10T14:37:56+01:00",
-            "date_modified": "2024-12-10T14:37:56+01:00"
-        },
-        {
-            "id": "https://gluecksjenni.de/mein-angebot/",
-            "url": "https://gluecksjenni.de/mein-angebot/",
-            "title": "Mein Angebot",
-            "author": {
-                "name": "Jennifer Dridiger"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-12-10T14:36:59+01:00",
-            "date_modified": "2024-12-10T14:36:59+01:00"
-        },
-        {
             "id": "https://gluecksjenni.de/glueck/",
             "url": "https://gluecksjenni.de/glueck/",
             "title": "Glück",

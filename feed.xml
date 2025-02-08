@@ -3,36 +3,12 @@
     <title>gluecksjenni</title>
     <link href="https://gluecksjenni.de/feed.xml" rel="self" />
     <link href="https://gluecksjenni.de" />
-    <updated>2024-12-10T14:37:56+01:00</updated>
+    <updated>2024-12-10T14:37:39+01:00</updated>
     <author>
         <name>Jennifer Dridiger</name>
     </author>
     <id>https://gluecksjenni.de</id>
 
-    <entry>
-        <title>Dein Weg zum Glück</title>
-        <author>
-            <name>Jennifer Dridiger</name>
-        </author>
-        <link href="https://gluecksjenni.de/dein-weg-zum-glueck/"/>
-        <id>https://gluecksjenni.de/dein-weg-zum-glueck/</id>
-
-        <updated>2024-12-10T14:37:56+01:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Mein Angebot</title>
-        <author>
-            <name>Jennifer Dridiger</name>
-        </author>
-        <link href="https://gluecksjenni.de/mein-angebot/"/>
-        <id>https://gluecksjenni.de/mein-angebot/</id>
-
-        <updated>2024-12-10T14:36:59+01:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
     <entry>
         <title>Glück</title>
         <author>
